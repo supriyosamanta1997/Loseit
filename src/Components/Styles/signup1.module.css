@@ -1,0 +1,61 @@
+.outer{
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400;
+    background-image: url(https://assets.loseit.com/website/onboarding/Wave.svg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-size: 100% auto;
+    background-position: bottom center;
+    padding-bottom: 100px;
+    height: 110vh;
+}
+.image{
+    min-height: fit-content;
+}
+.inner{
+    width: 45%;
+    height: 90vh;
+    margin: auto;
+    margin-top: 20px;
+    /* border:1px solid red */
+}
+.titlediv{
+    width: 90%;
+    height: 20%;
+    margin: auto;
+
+}
+.title{
+    font-size: 26px;
+    font-weight: 800;
+    color: #173962;
+    text-align: center;
+}
+.weightdiv{
+    width: 76%;
+    height: 75%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    /* border: 1px solid red; */
+    background-color: #f0f0f0;
+}
+.button{
+    width: 40%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 10px 0;
+    text-align: center;
+    background-color: #FF9400;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+}
+.footer{
+    width: 79%;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 13px;
+}

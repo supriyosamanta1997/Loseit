@@ -1,0 +1,13 @@
+Logo:https://assets.loseit.com/website/corporate/LoseIt_Logo_FullColor+(1).svg
+landing page background:https://assets.loseit.com/website/home/Wave.png(header class)
+Mobile:https://assets.loseit.com/website/home/Screenshot_LogScreenFixed.png
+set your goals:https://assets.loseit.com/website/home/Home_SetGoal.svg
+Track your food:https://assets.loseit.com/website/home/Home_TrackFoods.svg
+Lose Weight:https://assets.loseit.com/website/home/Home_LoseWeight.svg
+Water Tracking:https://assets.loseit.com/website/home/Features_WaterTracking.svg
+Marco Traking:https://assets.loseit.com/website/home/Features_Macros.svg
+Device Intrgration :https://assets.loseit.com/website/home/Features_DeviceIntegration.svg
+patterns:https://assets.loseit.com/website/home/Features_PatternsReports.svg
+scanner:https://assets.loseit.com/website/home/Features_Barcode.svg
+smart:https://assets.loseit.com/website/home/Features_SnapIt.svg
+signup and login background:https://assets.loseit.com/website/onboarding/Wave.svg

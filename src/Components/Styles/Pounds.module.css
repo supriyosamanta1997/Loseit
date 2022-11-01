@@ -1,0 +1,100 @@
+.outer{
+    height: 102vh;
+}
+.content{
+    line-height: 1.5;
+    font-size: 14px;
+    font-family: Avenir, "Helvetica Neue", sans-serif;
+    color: #808284;
+    font-weight: 400;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    margin-top: 5%;
+    box-sizing: inherit;
+
+}
+.poundsLost
+{
+    
+    text-align: center;
+    box-sizing: inherit;
+    font-family: inherit;
+    line-height: 1.2;
+    color: #ff9400;
+    font-size: 6.5em;
+    font-weight: 700;
+    margin: 10px auto;
+}
+.poundslostTitle{
+    
+    box-sizing: inherit;
+    font-family: inherit;
+    line-height: 1.2;
+    text-align: center;
+    color: #455555;
+    letter-spacing: .4em;
+    font-size: 2em;
+    font-weight: 700;
+    margin: 10px auto;
+}
+.hrTag{
+   
+   
+    height: 0;
+    overflow: visible;
+    margin-top: 0.8rem;
+    border: 5px solid #ff9400;
+    width: 50px;
+    margin-bottom: 40px;
+    margin: auto;
+}
+.asseen{
+    box-sizing: inherit;
+    font-family: inherit;
+    line-height: 1.2;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: 400;
+    color: #183962;
+    margin-top: 60px;
+    margin-bottom: 0;
+}
+.seenOnLogos
+{
+    
+    line-height: 1.5;
+    font-size: 14px;
+    font-family: Avenir, "Helvetica Neue", sans-serif;
+    color: #808284;
+    font-weight: 400;
+    text-align: center;
+    box-sizing: inherit;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    width: 65%;
+    margin: auto;
+    /* margin-top: 3%;
+    border: 1px solid red; */
+}
+
+.img1
+{
+    
+    line-height: 1.5;
+    font-size: 14px;
+    font-family: Avenir, "Helvetica Neue", sans-serif;
+    color: #808284;
+    font-weight: 400;
+    text-align: center;
+    box-sizing: inherit;
+    vertical-align: middle;
+    border-style: none;
+    width: 180px;
+    background-color: transparent;
+    margin: 0 auto;
+    padding: 10px 15px;
+}

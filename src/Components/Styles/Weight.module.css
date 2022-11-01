@@ -1,0 +1,66 @@
+.outer{
+    height: 60vh;
+}
+.heading
+{
+    box-sizing: inherit;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center;
+    font-size: 2em;
+    color: #183962;
+    margin: 30px 20px;
+}
+.content
+{
+    margin-top: 15px;
+    width: 85%;
+    height: 65%;
+    margin: auto;
+}
+.box{
+    width: 100%;
+    height: 100%;
+}
+.flexElement
+{
+    line-height: 1.5;
+    font-size: 14px;
+    font-family: Avenir, "Helvetica Neue", sans-serif;
+    color: #808284;
+    font-weight: 400;
+    text-align: center;
+    box-sizing: inherit;
+    width: 36%;
+    margin: auto
+}
+.feheading
+{
+   
+    box-sizing: inherit;
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    line-height: 1.2;
+    font-size: 1.7em;
+    color: #ff9400;
+    width:max-content;
+    text-align: center;
+    font-weight: 500;
+   
+}
+.fetitle
+{  
+    line-height: 1.5;
+    font-family: Avenir, "Helvetica Neue", sans-serif;
+    color: #808284;
+    font-weight: 400;
+    text-align: center;
+    box-sizing: inherit;
+    margin-top: 0;
+    width: 225%;
+    margin-left: -60%;
+    margin-bottom: 1rem;
+    font-size: 1.2em;
+}

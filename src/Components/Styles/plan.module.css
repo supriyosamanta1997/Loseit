@@ -1,0 +1,77 @@
+
+    *{
+        font-family: Avenir, Helvetica, Arial, sans-serif;
+    }
+    .outer{
+        width: 100%;
+        font-size: 1rem;
+        font-weight: 400;
+        background-image: url(https://assets.loseit.com/website/onboarding/Wave.svg);
+        background-repeat: no-repeat;
+        background-origin: border-box;
+        background-size: 100% auto;
+        background-position: bottom center;
+        padding-bottom: 100px;
+        height: 110vh;
+    }
+    .image{
+        min-height: fit-content;
+    }
+    .inner{
+        width: 40%;
+        height: 90vh;
+        margin: auto;
+        margin-top: 10px;
+        background-color: #f0f0f0;
+        border-radius: 10px;
+        /* border:1px solid red */
+    }
+    .title{
+        font-size: 26px;
+        font-weight: 800;
+        color: #173962;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .list{
+        width: 60%;
+        height: 10vh;
+        margin: auto;
+      
+        /* border:1px solid red; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .icon {
+        width: 20%;
+        height: 100%;
+        /* border: 1px solid red; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .details{
+        box-sizing: border-box;
+        width: 90%;
+        height: 100%;
+        padding-left: 15px;
+        /* border: 1px solid red; */
+    }
+    .calories{
+        font-size: 22px;
+        font-weight: 600;
+        color: #173962;
+    }
+    .button{
+        width: 40%;
+        margin: auto;
+        margin-top: 10px;
+        box-sizing: border-box;
+        padding: 10px 0;
+        text-align: center;
+        background-color: #FF9400;
+        color: #fff;
+        font-weight: 600;
+        font-size: 18px;
+    }
